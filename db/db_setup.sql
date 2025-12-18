@@ -1,4 +1,4 @@
-CREATE DATABASE testdb;
+CREATE DATABASE IF not EXISTS testdb;
 
 USE testdb;
 
